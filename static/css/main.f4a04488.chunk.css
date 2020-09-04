@@ -1,2 +1,0 @@
-.header{display:flex;align-items:center;width:550px;justify-content:space-between}.header__goods{color:#f08080}.header__close{font-size:25px;font-weight:700;color:red;cursor:pointer;border:none;background-color:#fff;outline:none}.listOfGoods{list-style:none;-webkit-columns:2;column-count:2;width:600px}.listOfGoods__goods{margin-bottom:15px;font-size:25px;text-decoration:underline;color:#90ee90;cursor:pointer;border:none;background-color:#fff;outline:none}.listOfGoods__goods--active{color:red}
-/*# sourceMappingURL=main.f4a04488.chunk.css.map */
